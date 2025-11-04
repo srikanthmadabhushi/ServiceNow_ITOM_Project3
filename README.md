@@ -1,4 +1,4 @@
-# ServiceNow_ITOM_Project3
+# ServiceNow_ITOM_Project4
 # ServiceNow ITOM Project 4 – Federated AIOps (PDI Simulation)
 
 ## 🧭 Objective  
